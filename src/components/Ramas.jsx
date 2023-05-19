@@ -1,8 +1,8 @@
 // Assets
-const rama = "../assets/images/rama.jpg";
-const rama2 = "../assets/images/rama2.jpg";
-const rama3 = "../assets/images/rama3.jpg";
-const rama4 = "../assets/images/rama4.jpg";
+import rama from "../assets/images/rama.jpg";
+import rama2 from "../assets/images/rama2.jpg";
+import rama3 from "../assets/images/rama3.jpg";
+import rama4 from "../assets/images/rama4.jpg";
 
 const Ramas = () => {
   return (

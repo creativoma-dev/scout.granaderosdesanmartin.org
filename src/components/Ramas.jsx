@@ -1,11 +1,8 @@
-// Dependencies
-import { IconAccessible } from "@tabler/icons-react";
-
 // Assets
-const rama = "../src/assets/images/rama.jpg";
-const rama2 = "../src/assets/images/rama2.jpg";
-const rama3 = "../src/assets/images/rama3.jpg";
-const rama4 = "../src/assets/images/rama4.jpg";
+const rama = "../assets/images/rama.jpg";
+const rama2 = "../assets/images/rama2.jpg";
+const rama3 = "../assets/images/rama3.jpg";
+const rama4 = "../assets/images/rama4.jpg";
 
 const Ramas = () => {
   return (

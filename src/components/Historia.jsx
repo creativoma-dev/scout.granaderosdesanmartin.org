@@ -1,6 +1,6 @@
-const foto2 = "../src/assets/images/photo-history-1.jpg";
-const foto3 = "../src/assets/images/photo-history-2.jpg";
-const foto4 = "../src/assets/images/photo-history-3.jpg";
+const foto2 = "../assets/images/photo-history-1.jpg";
+const foto3 = "../assets/images/photo-history-2.jpg";
+const foto4 = "../assets/images/photo-history-3.jpg";
 
 const Historia = () => {
   return (

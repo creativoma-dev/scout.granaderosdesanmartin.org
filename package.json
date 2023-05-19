@@ -1,0 +1,25 @@
+{
+  "name": "scout.granaderosdesanmartin.org",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "author": "Mariano Álvarez",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tabler/icons-react": "^2.16.0",
+    "preline": "^1.8.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.17",
+    "@types/react-dom": "^18.0.6",
+    "@vitejs/plugin-react": "^2.1.0",
+    "tailwindcss": "^3.3.1",
+    "vite": "^3.1.0"
+  }
+}

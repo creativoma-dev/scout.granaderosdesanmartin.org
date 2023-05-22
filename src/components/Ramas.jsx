@@ -12,7 +12,7 @@ const Ramas = () => {
           Ramas
         </h2>
       </div>
-      <div className="max-w-[85rem] px-4 sm:px-6 lg:px-8 mx-auto p-12 text-[#111827] gap-x-12 items-center justify-between overflow-hidden md:flex md:px-8">
+      <div className="max-w-[85rem] mb-8 px-4 sm:px-6 lg:px-8 mx-auto p-12 text-[#111827] gap-x-12 items-center justify-between overflow-hidden md:flex md:px-8">
         <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
           <div className="group flex flex-col h-full bg-white border border-gray-200 shadow-sm rounded-xl">
             <div className="h-52 flex flex-col justify-center items-center bg-[#ffef87] rounded-t-xl">
@@ -78,7 +78,6 @@ const Ramas = () => {
               </p>
             </div>
           </div>
-          
         </div>
       </div>
     </>
